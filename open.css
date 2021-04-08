@@ -4,6 +4,7 @@ height:2000px;
 width:2000px;
 background-color:blue;
 color:red;
+
 }
 
 
@@ -12,4 +13,11 @@ color:red;
 height:50px;
 width:50px;
 color:purple;
+max-width:20px;
+}
+
+.newimage
+{
+height:200px;
+width:300px;
 }
