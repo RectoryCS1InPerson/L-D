@@ -1,9 +1,9 @@
-.One
-{
 
-background-color:green;
-padding:10px;
-border:1px solid green;
+.Box
+{
+width:100px;
+height:100px;
+background-color:yellow;
 
 
 }
