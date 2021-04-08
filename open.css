@@ -1,4 +1,15 @@
+.blue
+{
+height:660px;
+width:650px;
+background-color:blue;
+color:red;
+}
+
+
+.purple
+{
 height:50px;
 width:50px;
-background-color:blue;
-color:blue;
+color:purple;
+}
