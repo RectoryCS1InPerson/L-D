@@ -1,9 +1,25 @@
 
 .Box
 {
-width:100px;
-height:100px;
-background-color:yellow;
+width:600px;
+height:125px;
+background-color:#532090;
+color:#8fdff6;
+font-size: 50px;
+margin-left:32%;
+text-align:center;
 
+}
 
+body
+{
+
+background-image: linear-gradient(blue,white,pink);
+
+}
+
+.About
+{
+font-size:25px;
+color:;
 }
