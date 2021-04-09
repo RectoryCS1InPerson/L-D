@@ -2,11 +2,14 @@
 {
 height:2000px;
 width:2000px;
-background-color:blue;
+
 color:red;
 
 }
-
+body
+{
+background-image: linear-gradient(#470ae1,#cdbcfe,#581bb3,#470ae1);
+}
 
 .purple
 {
@@ -30,13 +33,13 @@ width:500px;
 color:red;
 background-color:Green;
 
-
+}
 .anotherimage
 {
 height:400px;
-width:400px;
+max-width:100px;
+margin-left:50px;
 }
 
 
 
-}
