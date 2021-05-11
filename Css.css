@@ -3,8 +3,8 @@
 {
 width:475px;
 height:125px;
-background-color:#532090;
-color:#ddbff5;
+background-color:#eb2998;
+color:#f8d7fb;
 font-size: 50px;
 margin-left:38%;
 text-align:center;
@@ -14,16 +14,17 @@ text-align:center;
 body
 {
 
-background-image: linear-gradient(#efc1f5,#efdded,#eca6d0,#efc1f5);
+background-image: linear-gradient(#470ae1,#cdbcf6,#581bb3,#470ae1);
 
 }
 
 .About
 {
 font-size:25px;
-color:#085ea4;
+color:#0f5f9f;
 max-width:700px;
 float:left;
+background-color:#65f2bc;
 }
 
 .ImageOne
@@ -33,15 +34,16 @@ float:left;
 margin-top:35px;
 width:300px;
 height:200px;
+
 }
 
 .Hobby
 {
 font-size:25px;
-color:#085ea4;
+color:#0f5f9f;
 max-width:700px;
 margin-top:40px;
-
+background-color:#65f2bc;
 
 }
 
